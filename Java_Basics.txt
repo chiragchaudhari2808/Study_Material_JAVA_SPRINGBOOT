@@ -1,0 +1,14 @@
+Core Java Fundamentals:
+
+Data Types & Variables
+Operators
+Control Statements (if, switch, loops)
+Arrays & Strings 
+Classes
+Methods & Recursion
+
+OOP Concepts:
+Encapsulation
+Inheritance
+Polymorphism (compile-time & runtime)
+Abstraction (interface vs abstract class
